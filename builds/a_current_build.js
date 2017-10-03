@@ -1,5 +1,5 @@
 /*! A project by Bryce Summers.
- *  Single File concatenated by Grunt Concatenate on 02-10-2017
+ *  Single File concatenated by Grunt Concatenate on 03-10-2017
  */
 // Defined main namespace.
 SEE = {};
@@ -556,7 +556,7 @@ Purpose: Initializes and glues everything together.
           self._objects.push(object);
         };
       };
-      return loader.load('data/bunny.obj', intergrateIntoScene(this, 200, new THREE.Vector3(-60, 0, -50)));
+      return loader.load('data/torus.obj', intergrateIntoScene(this, 200, new THREE.Vector3(70, -40, 0)));
     };
 
     E_Scene.prototype.getObjects = function() {

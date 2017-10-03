@@ -83,10 +83,10 @@ class SEE.E_Scene
 
         # load a resource from provided URL
         # load Stanford Bunny (A clean, manifold version)
-        loader.load( 'data/bunny.obj', intergrateIntoScene(@, 200, new THREE.Vector3(-60, 0, -50)) )
+        #loader.load( 'data/bunny.obj', intergrateIntoScene(@, 200, new THREE.Vector3(-60, 0, -50)) )
         #loader.load( 'data/hand.obj', intergrateIntoScene(@, 200, new THREE.Vector3(0, 0, 0)) )
         #loader.load( 'data/sphere.obj', intergrateIntoScene(@, 200, new THREE.Vector3(0, 0, 0)) )
-        #loader.load( 'data/torus.obj', intergrateIntoScene(@, 200, new THREE.Vector3(70, -40, 0)) )
+        loader.load( 'data/torus.obj', intergrateIntoScene(@, 200, new THREE.Vector3(70, -40, 0)) )
 
 
     # Returns objects that can be rotated.
