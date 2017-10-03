@@ -1,0 +1,5 @@
+I got the Raleway font from https://www.fontsquirrel.com/fonts/list/popular
+
+I then converted it to Typeface.js using: https://gero3.github.io/facetype.js/
+
+(Great tools :) )

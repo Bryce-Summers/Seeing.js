@@ -1,0 +1,8 @@
+Next Step:
+
+Add Scribble.js module
+
+Shade Hand and Bunny with contrasting colored plane.
+
+
+Maybe I should also think about Fast Fourier Transforms when processing these signals.

@@ -1,0 +1,36 @@
+{
+  "name": "Algo-Pipe",
+  "version": "1.0.0",
+  "description": "Pipe Routing Algorithms for 3D Shapes and scenes.",
+  "main": "index.html",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.autodesk.com/tinkercad/algo-pipe.git"
+  },
+  "keywords": [
+    "3D Modeling",
+    "Wire",
+    "Circuits",
+    "Tinkercad",
+    "Automatic"
+  ],
+  "author": "Bryce Summers",
+  "license": "???",
+  "bugs": {
+    "url": "https://git.autodesk.com/tinkercad/algo-pipe/issues"
+  },
+  "homepage": "https://git.autodesk.com/tinkercad/algo-pipe",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-include-source": "^1.0.0"
+  },
+  "dependencies": {
+    "coffee-script": "^1.11.1"
+  }
+}
